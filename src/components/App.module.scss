@@ -1,0 +1,12 @@
+.count {
+  color: rgb(48, 48, 48);
+}
+.icon {
+
+  width: 40px;
+  height: 40px;
+  fill: green;
+  &:hover {
+    fill: rgb(39, 5, 5);
+  }
+}
